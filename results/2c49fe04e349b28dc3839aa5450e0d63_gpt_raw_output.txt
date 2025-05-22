@@ -1,0 +1,64 @@
+{
+    "evaluations": [
+        {
+            "question_id": "1.1.1",
+            "question_text": "盲道砖之间是否存在明显的裂缝或过宽的缝隙？",
+            "analysis": "盲道砖之间的缝隙看起来均匀，没有明显的裂缝或过宽的缝隙。",
+            "judgment": 0
+        },
+        {
+            "question_id": "1.1.2",
+            "question_text": "盲道与相邻路面之间是否存在高度差？",
+            "analysis": "盲道与相邻路面之间看起来没有明显的高度差。",
+            "judgment": 0
+        },
+        {
+            "question_id": "1.1.3",
+            "question_text": "盲道的不同部分之间是否存在明显的颜色差异？",
+            "analysis": "盲道的颜色看起来一致，没有明显的颜色差异。",
+            "judgment": 0
+        },
+        {
+            "question_id": "1.1.4",
+            "question_text": "盲道上的触觉点或条纹是否严重磨损或缺失？",
+            "analysis": "盲道上的触觉条纹清晰可见，没有严重磨损或缺失。",
+            "judgment": 0
+        },
+        {
+            "question_id": "1.1.5",
+            "question_text": "导向型盲道是否直接引导至楼梯、栅栏或其他障碍物？",
+            "analysis": "导向型盲道没有直接引导至楼梯、栅栏或其他障碍物。",
+            "judgment": 0
+        },
+        {
+            "question_id": "1.1.6",
+            "question_text": "盲道的连续性是否被检查井盖或管道出口打断？",
+            "analysis": "盲道的连续性没有被检查井盖或管道出口打断。",
+            "judgment": 0
+        },
+        {
+            "question_id": "1.1.7",
+            "question_text": "在需要设置盲道的位置（如地铁入口、公交车站）是否完全缺失盲道？",
+            "analysis": "在地铁入口处有盲道设置，没有完全缺失。",
+            "judgment": 0
+        },
+        {
+            "question_id": "1.1.8",
+            "question_text": "这段盲道是否包含两个以上超过90度的转弯？",
+            "analysis": "盲道没有明显的超过90度的转弯。",
+            "judgment": 0
+        },
+        {
+            "question_id": "1.2.1",
+            "question_text": "是否有行人长时间停留在盲道上？",
+            "analysis": "没有行人长时间停留在盲道上。",
+            "judgment": 0
+        },
+        {
+            "question_id": "1.2.2",
+            "question_text": "是否有快递员或外卖骑手临时停靠在盲道上或旁边？",
+            "analysis": "有多辆电动车停靠在盲道旁边，可能是快递员或外卖骑手的车辆。",
+            "judgment": 1
+        }
+    ]
+}

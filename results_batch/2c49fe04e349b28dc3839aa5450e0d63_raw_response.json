@@ -1,0 +1,244 @@
+{
+  "evaluations": [
+    {
+      "question_id": "1.1.1",
+      "question_text": "盲道砖之间是否存在明显的裂缝或过宽的缝隙？",
+      "analysis": "盲道砖之间的缝隙看起来正常，没有明显的裂缝或过宽的缝隙。",
+      "judgment": 0
+    },
+    {
+      "question_id": "1.1.2",
+      "question_text": "盲道与相邻路面之间是否存在高度差？",
+      "analysis": "盲道与相邻路面之间似乎没有明显的高度差。",
+      "judgment": 0
+    },
+    {
+      "question_id": "1.1.3",
+      "question_text": "盲道的不同部分之间是否存在较大的颜色差异？",
+      "analysis": "盲道的颜色看起来一致，没有明显的颜色差异。",
+      "judgment": 0
+    },
+    {
+      "question_id": "1.1.4",
+      "question_text": "盲道上的触觉点或条纹是否严重磨损或缺失？",
+      "analysis": "盲道上的触觉条纹看起来完整，没有明显的磨损或缺失。",
+      "judgment": 0
+    },
+    {
+      "question_id": "1.1.5",
+      "question_text": "导向型盲道是否直接引导至楼梯、栅栏或其他障碍物？",
+      "analysis": "导向型盲道没有直接引导至楼梯、栅栏或其他障碍物。",
+      "judgment": 0
+    },
+    {
+      "question_id": "1.1.6",
+      "question_text": "盲道的连续性是否被检查井盖或管道出口打断？",
+      "analysis": "盲道的连续性没有被检查井盖或管道出口打断。",
+      "judgment": 0
+    },
+    {
+      "question_id": "1.1.7",
+      "question_text": "在需要设置盲道的位置（如地铁入口、公交车站）是否完全缺失盲道？",
+      "analysis": "地铁入口附近有盲道，没有缺失。",
+      "judgment": 0
+    },
+    {
+      "question_id": "1.1.8",
+      "question_text": "这段盲道是否包含两个以上超过90度的转弯？",
+      "analysis": "盲道没有明显的转弯。",
+      "judgment": 0
+    },
+    {
+      "question_id": "1.2.1",
+      "question_text": "是否有行人长时间停留在盲道上？",
+      "analysis": "没有行人长时间停留在盲道上。",
+      "judgment": 0
+    },
+    {
+      "question_id": "1.2.2",
+      "question_text": "是否有快递员或外卖骑手临时停靠在盲道上或旁边？",
+      "analysis": "没有快递员或外卖骑手临时停靠在盲道上或旁边。",
+      "judgment": 0
+    },
+    {
+      "question_id": "1.2.3",
+      "question_text": "是否有清洁车辆或卫生工具占据盲道？",
+      "analysis": "没有清洁车辆或卫生工具占据盲道。",
+      "judgment": 0
+    },
+    {
+      "question_id": "1.2.4",
+      "question_text": "盲道上是否有非机动车（如自行车、电动自行车）停放？",
+      "analysis": "盲道上没有非机动车停放，但旁边有电动自行车停放。",
+      "judgment": 0
+    },
+    {
+      "question_id": "2.1.1",
+      "question_text": "盲道是否距离墙壁不足250毫米？",
+      "analysis": "盲道与墙壁之间的距离足够，没有不足250毫米的情况。",
+      "judgment": 0
+    },
+    {
+      "question_id": "2.1.2",
+      "question_text": "盲道是否距离绿化带或种植区不足250毫米？",
+      "analysis": "盲道与绿化带之间的距离足够，没有不足250毫米的情况。",
+      "judgment": 0
+    },
+    {
+      "question_id": "2.1.3",
+      "question_text": "盲道是否距离树坑不足250毫米？",
+      "analysis": "盲道与树坑之间的距离足够，没有不足250毫米的情况。",
+      "judgment": 0
+    },
+    {
+      "question_id": "2.1.4",
+      "question_text": "垃圾桶是否放置在盲道两侧250毫米范围内？",
+      "analysis": "没有看到垃圾桶放置在盲道两侧250毫米范围内。",
+      "judgment": 0
+    },
+    {
+      "question_id": "2.1.5",
+      "question_text": "标志杆、灯柱或信息柱是否放置在盲道两侧250毫米范围内？",
+      "analysis": "标志杆和灯柱在盲道旁边，但似乎不在250毫米范围内。",
+      "judgment": 0
+    },
+    {
+      "question_id": "2.1.6",
+      "question_text": "广告箱、邮箱或电气柜是否放置在盲道两侧250毫米范围内？",
+      "analysis": "没有看到广告箱、邮箱或电气柜放置在盲道两侧250毫米范围内。",
+      "judgment": 0
+    },
+    {
+      "question_id": "2.1.7",
+      "question_text": "交通杆或导向柱是否位于盲道两侧250毫米范围内？",
+      "analysis": "交通杆或导向柱不在盲道两侧250毫米范围内。",
+      "judgment": 0
+    },
+    {
+      "question_id": "2.1.8",
+      "question_text": "周围地砖颜色是否与盲道过于相似，导致难以区分？",
+      "analysis": "周围地砖颜色与盲道有一定区别，不难以区分。",
+      "judgment": 0
+    },
+    {
+      "question_id": "2.1.9",
+      "question_text": "周围地砖是否具有相似的触觉纹理，影响辨别？",
+      "analysis": "周围地砖没有相似的触觉纹理，不影响辨别。",
+      "judgment": 0
+    },
+    {
+      "question_id": "2.1.10",
+      "question_text": "盲道的边缘是否未明确定义，难以通过触摸检测？",
+      "analysis": "盲道的边缘定义清晰，可以通过触摸检测。",
+      "judgment": 0
+    },
+    {
+      "question_id": "2.2.1",
+      "question_text": "盲道旁边是否有建筑障碍物，且没有设置临时引导砖？",
+      "analysis": "盲道旁边没有建筑障碍物。",
+      "judgment": 0
+    },
+    {
+      "question_id": "2.2.2",
+      "question_text": "是否有街头小贩在盲道250毫米范围内设摊？",
+      "analysis": "没有街头小贩在盲道250毫米范围内设摊。",
+      "judgment": 0
+    },
+    {
+      "question_id": "2.2.3",
+      "question_text": "是否有快递架或广告板临时放置在盲道附近？",
+      "analysis": "没有快递架或广告板临时放置在盲道附近。",
+      "judgment": 0
+    },
+    {
+      "question_id": "2.2.4",
+      "question_text": "是否有共享单车停放在盲道250毫米范围内？",
+      "analysis": "没有共享单车停放在盲道250毫米范围内。",
+      "judgment": 0
+    },
+    {
+      "question_id": "2.2.5",
+      "question_text": "是否有电动自行车、踏板车或其他非机动车阻塞盲道边缘？",
+      "analysis": "盲道边缘有电动自行车停放，但没有完全阻塞。",
+      "judgment": 0
+    },
+    {
+      "question_id": "3.1.1",
+      "question_text": "当前人行道宽度是否小于2.0米？",
+      "analysis": "人行道宽度看起来大于2.0米。",
+      "judgment": 0
+    },
+    {
+      "question_id": "3.1.2",
+      "question_text": "人行道上是否有障碍物使有效通行宽度小于2.0米？",
+      "analysis": "人行道上没有障碍物使有效通行宽度小于2.0米。",
+      "judgment": 0
+    },
+    {
+      "question_id": "3.1.3",
+      "question_text": "路缘石是否完全缺失？",
+      "analysis": "路缘石没有完全缺失。",
+      "judgment": 0
+    },
+    {
+      "question_id": "3.1.4",
+      "question_text": "路缘石是否过高（大于15厘米），导致通行困难？",
+      "analysis": "路缘石高度正常，没有过高。",
+      "judgment": 0
+    },
+    {
+      "question_id": "3.1.5",
+      "question_text": "路缘石是否过低（小于3厘米），增加视障行人进入机动车道的风险？",
+      "analysis": "路缘石高度正常，没有过低。",
+      "judgment": 0
+    },
+    {
+      "question_id": "3.1.6",
+      "question_text": "人行道与机动车道之间是否没有明确分隔？",
+      "analysis": "人行道与机动车道之间有明确分隔。",
+      "judgment": 0
+    },
+    {
+      "question_id": "3.1.7",
+      "question_text": "人行道与道路是否处于同一水平，没有高度差？",
+      "analysis": "人行道与道路之间有高度差。",
+      "judgment": 0
+    },
+    {
+      "question_id": "3.2.1",
+      "question_text": "建筑材料是否堆放在盲道或人行道上？",
+      "analysis": "没有建筑材料堆放在盲道或人行道上。",
+      "judgment": 0
+    },
+    {
+      "question_id": "3.2.2",
+      "question_text": "是否有堆积的绿化垃圾（如落叶、树枝）？",
+      "analysis": "没有堆积的绿化垃圾。",
+      "judgment": 0
+    },
+    {
+      "question_id": "3.2.3",
+      "question_text": "装修垃圾或废弃家具是否堆放在盲道附近？",
+      "analysis": "没有装修垃圾或废弃家具堆放在盲道附近。",
+      "judgment": 0
+    },
+    {
+      "question_id": "3.2.4",
+      "question_text": "临时建筑工地是否没有设置绕行通道或警示标志？",
+      "analysis": "没有看到临时建筑工地。",
+      "judgment": 0
+    },
+    {
+      "question_id": "3.2.5",
+      "question_text": "路边摊贩是否占据人行道/盲道空间且没有设置绕行引导？",
+      "analysis": "没有路边摊贩占据人行道/盲道空间。",
+      "judgment": 0
+    },
+    {
+      "question_id": "3.2.6",
+      "question_text": "商店是否将商品或家具摆放在盲道或人行道区域？",
+      "analysis": "没有商店将商品或家具摆放在盲道或人行道区域。",
+      "judgment": 0
+    }
+  ]
+}
